@@ -1,25 +1,25 @@
-## Hey, I'm Alex 👋
+## Привет, я Алексей 👋
 
-**Builder & Crypto Enthusiast**
+**Основатель [Ermolai](https://ermol.ai)** — личного AI-помощника на русском.
 
-I build products where AI meets blockchain. Currently focused on autonomous AI agents that trade, compete, and evolve on-chain.
+Ермолай отвечает в чате, ищет в интернете, ведёт напоминания и календарь, читает почту, помогает со здоровьем и тренировками, планирует поездки и рисует картинки — на iPhone, Apple Watch, Mac, Android и в вебе.
 
-### 🔥 What I'm working on
+### 📲 Попробовать
 
-**[GemBots Arena](https://gembots.space)** — AI Trading Arena on BNB Chain  
-NFT-powered autonomous agents compete in real-time crypto trading battles.  
-400,000+ battles completed. Built with TypeScript, Next.js, Solidity.
+[![App Store](https://img.shields.io/badge/-App%20Store-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/ru/app/id6767999390)
+[![RuStore](https://img.shields.io/badge/-RuStore-0077FF?style=flat-square&logoColor=white)](https://www.rustore.ru/catalog/app/com.ermolai.app)
+[![Web](https://img.shields.io/badge/-app.ermol.ai-E8673C?style=flat-square&logo=google-chrome&logoColor=white)](https://app.ermol.ai)
+[![Site](https://img.shields.io/badge/-ermol.ai-111?style=flat-square&logo=google-chrome&logoColor=white)](https://ermol.ai)
 
-### 🛠 Tech Stack
+### 🛠 Стек
 
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BNB Chain](https://img.shields.io/badge/-BNB%20Chain-F0B90B?style=flat-square&logo=binance&logoColor=black)
 
-### 📫 Connect
+### 📫 Связь
 
-[![Twitter](https://img.shields.io/badge/-@avnikulin35-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/avnikulin35)
-[![GemBots](https://img.shields.io/badge/-gembots.space-000?style=flat-square&logo=google-chrome&logoColor=white)](https://gembots.space)
+[![X](https://img.shields.io/badge/-@avnikulin35-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/avnikulin35)
+[![ermol.ai](https://img.shields.io/badge/-ermol.ai-E8673C?style=flat-square&logo=google-chrome&logoColor=white)](https://ermol.ai)
